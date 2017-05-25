@@ -1,0 +1,11 @@
+* Downloads Data from the Discogs data export in XML format
+* Extracts the xml.gz
+* Uses Phoenix to create the table structure
+* Play around with it
+
+
+**Launching with custom settings:
+DISCO_SETTINGS_PATH=my_settings.py python disco_loader.py   
+
+
+
